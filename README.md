@@ -2,7 +2,7 @@
 
 ## Premièr lancement
 
-git config --global user.email "example@youremail.com" -->  j'entre mon email
+git config --global user.email "example@youremail.com" -->  j'entre mon email <br>
 git config --global user.name "username" --> j'entre mon nom d'utilisateur
 
 ## Versionner son travail
