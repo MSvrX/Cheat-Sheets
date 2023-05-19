@@ -1,11 +1,11 @@
-#Cheat Sheet git
+# Cheat Sheet git
 
-##Premièr lancement
+## Premièr lancement
 
 git config --global user.email "example@youremail.com" -->  j'entre mon email
 git config --global user.name "username" --> j'entre mon nom d'utilisateur
 
-##Versionner son travail
+## Versionner son travail
 
 git init --> initialiser le dépôt
 
